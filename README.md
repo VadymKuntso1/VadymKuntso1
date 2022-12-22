@@ -6,8 +6,8 @@
 	<h2>Skills:</h2>
 	<h3>HTML | CSS | Less | Bootstrap</h3>
 	<h3>Python | Django | Flask | API | POSTMAN</h3>
-	<h3>SQL</h3>
-	<h3>Github</h3>
+	<h3>SQL,mySQL, SQLite, postgreSQL</h3>
+	<h3>Github,Docker</h3>
   
   <h2>Also</h2>
   <h3>C++ | C# | .Net | .Net Core | ASP.Net(MVC) | Entity Framework | Xamarin</h3>
