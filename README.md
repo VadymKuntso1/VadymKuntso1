@@ -4,11 +4,11 @@
 	<br>
 	<br>
 	<h2>Skills:</h2>
-	<h3>HTML | CSS | Less | Bootstrap</h3>
-	<h3>Python | Django | Flask | API | POSTMAN</h3>
- 	<h3>JavaScript | React | Knockout</h3>
-	<h3>SQL,mySQL, SQLite, postgreSQL</h3>
-	<h3>Github,Docker</h3>
+	<h3>HTML | CSS | Less | Bootstrap | Material UI | Mantis UI</h3>
+	<h3>Python | Django | Django Rest Framework | Flask | API</h3>
+ 	<h3>JavaScript | React | Knockout | Next | Nest | TypeScript</h3>
+	<h3>SQL | mySQL | SQLite | postgreSQL</h3>
+	<h3>Github | Docker | POSTMAN</h3>
   
   <h2>Also</h2>
   <h3>C++ | C# | .Net | .Net Core | ASP.Net(MVC) | Entity Framework | Xamarin</h3>
