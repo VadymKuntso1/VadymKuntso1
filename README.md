@@ -1,6 +1,6 @@
 <h1>Hello, I'm Vadym Kuntso</h1>
 	<h3>FULL-STACK Developer</h3>
-  <img src="https://github.com/VadymKuntso1/restful_api_db/blob/master/my-portrait-2022.png" alt="me">
+  <img src="https://github.com/VadymKuntso1/restful_api_db/blob/master/my-portrait-2022-removebg-preview.png" alt="me">
 	<br>
 	<br>
 	<h2>Skills:</h2>
